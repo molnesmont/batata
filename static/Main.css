@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2016/05/21/20/05/sea-1407369_1280.jpg);
+} 
+
+h2{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 45px;
+    color: white;
+    filter: drop-shadow(3px 3px rgba(77, 28, 211, 0.897));
+}
+h3{
+    position:absolute;
+    top: 82%;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: white;
+}
+h3.L{
+    left: 15%;
+}
+h3.R{
+    right: 15%;
+}
+.font:hover {
+    transition: color .3s;
+    transition: background .3s;
+    border-radius: 40px;
+    font-size: 25px;
+    color: #000;
+    background: rgba(255, 255, 255, 0.329);
+    cursor: pointer;
+    }
+button:hover {
+    background-color:rgba(110, 30, 238, 0.678);
+    transition: background-color.7s;
+}
+button{
+    position: absolute;
+    left: 42%;
+    height: 80px;
+    width: 200px;
+    border-radius: 8px;
+    border: 1px solid #666;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 25px;
+    cursor: pointer;
+    background: rgba(120, 251, 255, 0.698);
+    display:block;
+}
+    button.a {
+    top: 25%;
+    }
+    button.b {
+    top: 45%;
+    }
+    button.c {
+    top: 65%;
+    }
