@@ -3,6 +3,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Montserrat:wght@300&family=PT+Sans+Narrow&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=M+PLUS+1p:wght@300&family=Montserrat:wght@300&family=PT+Sans+Narrow&display=swap');
 
+a { 
+    text-decoration: none;
+    color: 005f89;
+    }
+    
 .tab {
     margin-top: 10;
     margin-left: 150;

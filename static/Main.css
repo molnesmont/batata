@@ -58,3 +58,8 @@ button{
     button.c {
     top: 65%;
     }
+
+a { 
+    text-decoration: none;
+    color: 005f89;
+    }
